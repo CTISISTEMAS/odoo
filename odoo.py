@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 #----------------------------------------------------------
 # odoo cli
-#
+#BG
 # To install your odoo development environement type:
 #
 # wget -O- https://raw.githubusercontent.com/odoo/odoo/master/odoo.py | python
